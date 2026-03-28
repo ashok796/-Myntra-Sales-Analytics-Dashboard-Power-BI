@@ -17,9 +17,7 @@ and Month-Over-Month (MOM) growth tracking.
 
 ---
 
-## 🖼️ Dashboard Preview
 
-> *(Add your dashboard screenshot here)*
 
 ---
 
@@ -155,18 +153,18 @@ DIVIDE(
 
 ## 💡 Key Insights
 
-- 📈 **Revenue grew 252%** from Jan 2024 to Sep 2025
-- 👟 **Nike** is the top brand with ₹10.7M in revenue
-- 👗 **Women's category** is the fastest growing segment
-- 🏆 **Air Zoom Pegasus 39** is the best-selling product
-- ⭐ Average customer rating is consistently **4.33/5**
-- 📅 **MOM growth peaked in Mar 2024** at +29%
+-  **Revenue grew 252%** from Jan 2024 to Sep 2025
+- **Nike** is the top brand with ₹10.7M in revenue
+-  **Women's category** is the fastest growing segment
+-  **Air Zoom Pegasus 39** is the best-selling product
+-  Average customer rating is consistently **4.33/5**
+-  **MOM growth peaked in Mar 2024** at +29%
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-> Made with ❤️ using Power BI & Python
+> Made with  using Power BI & Python
 
 ---
 
